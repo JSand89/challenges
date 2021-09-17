@@ -14,5 +14,25 @@
     display: contents;
 }
 .title{
-    color:#fff
+    color:#f4f4f4;
+    position: absolute;
+    top:90px;
+}
+@media screen and (max-width:500px ) {
+.Header{
+    display: block;
+    justify-content: space-around;
+	}
+.logo{
+    display: none;
+}
+.Header{
+    height: 70px;
+    width: 100%;
+
+}
+.title{
+
+    top:0px;
+}
 }

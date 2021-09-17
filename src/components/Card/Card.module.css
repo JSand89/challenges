@@ -12,3 +12,18 @@
     background-color: antiquewhite;
     
 }
+@media screen and (max-width:500px ) {
+    .Card{
+        justify-content: left;
+        margin-left: 0px;
+        margin-top: 50px;
+        margin-right: 0px;
+
+    }
+    .image{
+        height: 200px;
+        width: 200px;
+        background-color: antiquewhite;
+    }
+      
+}
