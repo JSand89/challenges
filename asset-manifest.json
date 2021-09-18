@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JSand89.github.io/challenges/static/css/main.cca2d4d0.chunk.css",
+    "main.js": "/JSand89.github.io/challenges/static/js/main.217f7591.chunk.js",
+    "main.js.map": "/JSand89.github.io/challenges/static/js/main.217f7591.chunk.js.map",
+    "runtime-main.js": "/JSand89.github.io/challenges/static/js/runtime-main.a128f120.js",
+    "runtime-main.js.map": "/JSand89.github.io/challenges/static/js/runtime-main.a128f120.js.map",
+    "static/js/2.fbf83938.chunk.js": "/JSand89.github.io/challenges/static/js/2.fbf83938.chunk.js",
+    "static/js/2.fbf83938.chunk.js.map": "/JSand89.github.io/challenges/static/js/2.fbf83938.chunk.js.map",
+    "index.html": "/JSand89.github.io/challenges/index.html",
+    "static/css/main.cca2d4d0.chunk.css.map": "/JSand89.github.io/challenges/static/css/main.cca2d4d0.chunk.css.map",
+    "static/js/2.fbf83938.chunk.js.LICENSE.txt": "/JSand89.github.io/challenges/static/js/2.fbf83938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a128f120.js",
+    "static/js/2.fbf83938.chunk.js",
+    "static/css/main.cca2d4d0.chunk.css",
+    "static/js/main.217f7591.chunk.js"
+  ]
+}
