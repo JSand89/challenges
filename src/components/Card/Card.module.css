@@ -7,9 +7,8 @@
 
 }
 .image{
-    height: 200px;
-    width: 300px;
-    background-color: antiquewhite;
+
+    background-color:#BE5457;
     
 }
 @media screen and (max-width:500px ) {
@@ -21,9 +20,8 @@
 
     }
     .image{
-        height: 200px;
-        width: 200px;
-        background-color: antiquewhite;
+
+        background-color: #BE5457;
     }
       
 }

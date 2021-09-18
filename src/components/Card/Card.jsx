@@ -6,7 +6,7 @@ function Card({props}) {
     return (
         <div>
             <ul className={style.Card}>
-                <li className={style.image}>image</li>
+                <li className={style.image}><img src={props.image} alt="imagen"/></li>
                 <li>Reto: {props.Name}</li>
                 <li><a href={props.DeployLink}>Web</a></li>
                 <li><a href={props.GitHubLink}>Repositorio</a></li>
