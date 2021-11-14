@@ -24,12 +24,15 @@ https://jsand89.github.io/challenges/
 ### `npm run build`
 ### `npm run deploy`
 
-### 50 challenge 
+### 30 challenge 
 
-In this moment the web contain 25 challenge the goal is 50 challenge in 31 oct 2021
+In this moment the web contain 25 challenge 
+![](https://i.ibb.co/Y3dLzbD/Diapositiva2.png)
+es poible verlo en linea en el siguiente [link](https://jsand89.github.io/challenges/ "30 retos 30 dias")
+![](https://i.ibb.co/Y3dLzbD/Diapositiva2.png)
 
 ## Learn More
-
+Los retos se encuentran disponibles en el siguiente [repositorio](https://github.com/JSand89/Retos)
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
