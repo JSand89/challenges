@@ -29,7 +29,6 @@ https://jsand89.github.io/challenges/
 In this moment the web contain 25 challenge 
 ![](https://i.ibb.co/Y3dLzbD/Diapositiva2.png)
 es poible verlo en linea en el siguiente [link](https://jsand89.github.io/challenges/ "30 retos 30 dias")
-![](https://i.ibb.co/Y3dLzbD/Diapositiva2.png)
 
 ## Learn More
 Los retos se encuentran disponibles en el siguiente [repositorio](https://github.com/JSand89/Retos)
